@@ -1,4 +1,4 @@
-#Easy way to encrypt / decrypt string with symfony 4.2.*
+###Easy way to encrypt / decrypt string with symfony 4.2.*
 
 Install:
 ``` bash
