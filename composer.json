@@ -11,7 +11,7 @@
             "email": "fpasquer@student.42.fr"
         }
     ],
-    "autoload-dev": {
+    "autoload": {
         "psr-4": {
             "Fpasquer\\EncryptManagerBundle\\": "vendor/fpasquer/encrypt-manager-bundle/"
         }
