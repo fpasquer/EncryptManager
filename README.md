@@ -13,8 +13,8 @@ $str2 = $encryptManager->decrypt($str1);
 dump($str1, $str2);
 ```
 
-You can setup the encrytion method in EncryptManager::controller as :
+You can setup the encrytion method in EncryptManager::__controller as :
 ``` bash
-$encryptManager = new EncryptManager("AES-128-CBC);
+$encryptManager = new EncryptManager("AES-128-CBC");
 ...
 ```
